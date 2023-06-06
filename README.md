@@ -1,3 +1,7 @@
+## Project: Etch-a-Sketch
+### Built by Philisizwe Kuzwayo
+#### Date Started: 06 June 2023
+
 ### Instructions:
 
 * Create a webpage with a 16x16 grid of square divs.
