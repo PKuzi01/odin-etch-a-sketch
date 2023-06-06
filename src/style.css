@@ -1,0 +1,16 @@
+.container {
+    display: flex;
+    flex-wrap: wrap;
+    max-width: 960px;
+    justify-content: center;
+}
+
+.row {
+    display: flex;
+}
+
+.item {
+    flex-basis: calc(100% / 16);
+    height: calc(100% / 16);
+    border: 1px solid #000;
+}
