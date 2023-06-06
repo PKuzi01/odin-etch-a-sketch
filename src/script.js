@@ -13,4 +13,4 @@ for (let x = 0; x < 16; x++) {
     }
 
     container.appendChild(row);
-};
+}
