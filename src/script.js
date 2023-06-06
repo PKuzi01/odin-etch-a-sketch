@@ -8,7 +8,7 @@ for (let x = 0; x < 16; x++) {
 
     for (let y= 0; y < 16; y++) {
         let item = document.createElement(`div`);
-        item.classList.add(`cell`);
+        item.classList.add(`item`);
         row.appendChild(item);
     }
 
